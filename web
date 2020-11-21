@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Looking Glass</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="main">
+            <ul>
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Kontak</a></li>
+            <li><a href="#">Divisi</a></li>
+            </ul>
+        </div>
+        <div class="title">
+            <h1>Welcome Customer</h1>
+        </div>
+        <div class="button">
+            <a href="#" class="btn">Testimoni</a>
+            <a href="#" class="btn">Our Partner</a>
+        </div>
+    </header>
+    
+</body>
+</html>
